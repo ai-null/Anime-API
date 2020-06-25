@@ -1,4 +1,4 @@
-# AnimeQ
+# animeQ
 animeQ is an anime and manga catalog application. This application facilitates finding anime based on its title and provides detailed information of it. The data used on this aplication is provided and managed by [Jikan moe](https://jikan.moe/).
 
 <p align="center">
